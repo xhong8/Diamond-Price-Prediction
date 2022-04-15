@@ -1,10 +1,10 @@
-# Diamond Price Prediction
+# Diamond Price Prediction using Feedforward Neural Network
 ## 1. Objective
 To create a Feedforward Neural Network model to predict the price of diamonds, based on the following features:  <br />
-&nbsp;&nbsp; i. 4C (cut,clarity,color,carat)   <br />
-&nbsp;&nbsp; ii. dimensions (x,y,z)   <br />
-&nbsp;&nbsp; iii. depth   <br />
-&nbsp;&nbsp; iv. table   <br />
+&nbsp;&nbsp; i. &nbsp; 4C (cut,clarity,color,carat)   <br />
+&nbsp;&nbsp; ii. &nbsp; dimensions (x,y,z)   <br />
+&nbsp;&nbsp; iii.&nbsp;  depth   <br />
+&nbsp;&nbsp; iv. &nbsp; table   <br />
 
 ## 2. Dataset
 The dataset is obtained from [Diamonds dataset](https://www.kaggle.com/datasets/shivam2503/diamonds).
