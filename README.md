@@ -1,4 +1,4 @@
-# Diamond Price Prediction using Feedforward Neural Network
+# Diamond Price Prediction
 ## 1. Objective
 To create a Feedforward Neural Network model to predict the price of diamonds, based on the following features:  <br />
 &nbsp;&nbsp; i. &nbsp; 4C (cut,clarity,color,carat)   <br />
@@ -15,7 +15,7 @@ The dataset is obtained from [Diamonds dataset](https://www.kaggle.com/datasets/
 
 ## 4. Methodology
 ### 4.1. Data Pipeline
-First, load the data and preprocess the data to remove unuse features. Categorical features are encoded ordinally. Then the data is split into train-validation-test sets, with a ratio of 60:20:20.
+Load the data and preprocess the data to remove unuse features. Categorical features are encoded ordinally. Then split the data into train-validation-test sets, with a ratio of 60:20:20.
 
 ### 4.2. Model Pipeline
 A feedforward neural network is constructed that is catered for regression problem. <br />
